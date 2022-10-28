@@ -1,5 +1,3 @@
 before
 foo bar
  more
-
- asdfa ksj
